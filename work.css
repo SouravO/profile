@@ -1,0 +1,17 @@
+body {
+    background-image: url("b3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .mySlides {display:none;}
+  .all{
+      padding: 0px 00px 0px 200px; 
+      width: 150%;
+      
+      size:px;
+  }
+  .w3-center{
+      
+    
+      color: brown;
+  }

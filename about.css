@@ -1,0 +1,30 @@
+body{
+  background-image: url("b4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+ .row{
+   
+   width: 1250px;
+   height: 2500px;
+   padding: ;
+
+  }
+#container-border {
+    border-width: 2px;
+    border-color: rgb(29, 5, 5);
+    border-style: groove;
+  }
+
+/* contact section */
+.contact {
+  background: rgba(172, 207, 17, 0.836);
+ box-shadow: 0px 1px 5px rgba(50,50,50,0.08);
+}
+.contact .fa {
+  padding-right: 6px;
+}
+.container{
+  align-items: center;
+}
